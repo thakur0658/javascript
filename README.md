@@ -1,2 +1,2 @@
 "# javascript"  <br>
-From the very basic javascript ...
+This repository is just for trying js...nothing special here.
